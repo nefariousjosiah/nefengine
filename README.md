@@ -1,7 +1,6 @@
 # FOR SHOWCASE PURPOSES ONLY
 
 # **NOT OPEN SOURCE FOR NOW.**
-Thanks
 
 
 # 6 - 30 - 2024
